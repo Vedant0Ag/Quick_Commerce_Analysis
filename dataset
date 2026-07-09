@@ -1,0 +1,28 @@
+# Dataset Information
+
+This project uses a Quick Commerce transactional dataset containing approximately **1,000,000 orders**.
+
+Due to GitHub file size limitations, the complete dataset has not been included in this repository.
+
+Dataset Summary:
+
+- Records: ~1,000,000
+- Attributes: 13
+- Format: CSV
+- Size: ~90 MB
+
+The dataset contains:
+
+- Order ID
+- Company
+- City
+- Customer Age
+- Order Value
+- Delivery Time
+- Distance
+- Items Count
+- Product Category
+- Payment Method
+- Customer Rating
+- Discount Applied
+- Delivery Partner Rating
